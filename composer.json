@@ -1,5 +1,5 @@
 {
-    "name": "botman/driver-telegram",
+    "name": "lomotech/driver-telegram",
     "license": "MIT",
     "description": "Telegram driver for BotMan",
     "keywords": [
@@ -7,7 +7,7 @@
         "BotMan",
         "Telegram"
     ],
-    "homepage": "http://github.com/botman/driver-telegram",
+    "homepage": "http://github.com/lomotech/driver-telegram",
     "authors": [
         {
             "name": "Marcel Pociot",
